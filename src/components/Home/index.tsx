@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react';
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import React from 'react';
 import locations from '../../data.json';
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 
 import './index.css'
 
